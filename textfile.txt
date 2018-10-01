@@ -1,3 +1,5 @@
 This is my text file
 
 My second edit
+
+My third edit
